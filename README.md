@@ -33,4 +33,4 @@ Open `live.pbix` in Power BI Desktop to explore the interactive filters and dril
 ## Screenshot
 
 
-![Dashboard Preview](salesdashboard.png)
+![Dashboard Preview](sales20%dashboard.png)
